@@ -9,7 +9,8 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+.target/
+.idea/
 # Package Files #
 *.jar
 *.war
@@ -22,3 +23,5 @@
 *.idea
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# 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
